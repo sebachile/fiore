@@ -60,7 +60,7 @@ export default function App() {
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <img
-            src="img\background.jpg"
+            src="/fiore/img/background.jpg"
             alt="Peaceful meditation"
             className="w-full h-full object-cover"
           />
