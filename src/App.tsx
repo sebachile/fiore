@@ -15,35 +15,35 @@ export default function App() {
       title: 'Tarot Terapéutico',
       description: `El Tarot Terapéutico reconoce el "YO SOY" como la fuerza creadora que habita en cada persona.\nA través de sus símbolos y mensajes, amplía la conciencia, ofrece claridad ante los desafíos y nos guía a comprender el propósito detrás de nuestras experiencias.\nEs una herramienta de autoconocimiento que permite sanar patrones, integrar aprendizajes y enfocar la energía hacia la vida que queremos manifestar.`,
       benefit: 'claridad interior, dirección y comprensión profunda del momento presente.',
-      imageUrl: 'img/tarot.jpeg',
+      imageUrl: '/fiore/img/tarot.jpeg',
       accentColor: '#C9A8D0'
     },
     {
       title: 'Reiki Rafá',
       description: `El Reiki Rafá restablece el flujo energético y facilita la sanación emocional profunda.\nDurante la sesión se acompaña al cuerpo y a la memoria interna para liberar dolor, rabia o angustia, devolviendo esa energía transformada a la fuente.\nTrabaja la trinidad madre-padre-hijo interior, promoviendo calma, gratitud y reconexión con el amor como esencia vital.`,
       benefit: 'liberación emocional, equilibrio y conexión con el amor interno.',
-      imageUrl: 'img/reiki1.jpeg',
+      imageUrl: '/fiore/img/reiki1.jpeg',
       accentColor: '#F9BB7C'
     },
     {
       title: 'Arte Terapéutico',
       description: `El arte es un canal de sanación y expansión. A través de la experimentación con materiales, texturas y colores, accedemos a nuestra esencia y damos forma a lo que busca expresarse.\nCada creación es un acto de conexión y autoconocimiento que nos invita a soltar juicios y abrirnos a la transformación personal.`,
       benefit: 'expresión auténtica, sanación creativa y expansión personal.',
-      imageUrl: 'img/arte1.jpeg',
+      imageUrl: '/fiore/img/arte1.jpeg',
       accentColor: '#53A7DD'
     },
     {
       title: 'Programación Neuro Lingüística (PNL)',
       description: `La PNL nos ayuda a reconocer nuestros recursos internos y a transformar creencias o patrones inconscientes.\nPermite integrar lo que manteníamos en sombra y redirigir la energía hacia nuevas perspectivas, ampliando la flexibilidad mental y emocional.`,
       benefit: 'integración interior, claridad y herramientas para navegar los desafíos de la vida.',
-      imageUrl: 'img/pnl1.jpeg',
+      imageUrl: '/fiore/img/pnl1.jpeg',
       accentColor: '#C9A8D0'
     },
     {
       title: 'Fonoaudiología Integral',
       description: `La fonoaudiología es un encuentro entre ciencia y arte al servicio de la comunicación.\nMi enfoque considera la voz, el lenguaje y la palabra como reflejo del equilibrio entre cuerpo, emoción y energía.\nTrabajamos desde una visión integral que busca restablecer la salud vocal y la armonía general de la persona.`,
       benefit: 'expresión libre, mejora de la comunicación y bienestar integral.',
-      imageUrl: 'img/fono1.jpeg',
+      imageUrl: '/fiore/img/fono1.jpeg',
       accentColor: '#F9BB7C'
     }
   ];
