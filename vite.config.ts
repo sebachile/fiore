@@ -5,6 +5,9 @@
 
   export default defineConfig({
     base: '/fiore/',
+    build: {
+      outDir: 'docs',
+    },
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
@@ -52,7 +55,7 @@
     },
     build: {
       target: 'esnext',
-      outDir: 'build',
+      outDir: 'docs',
     },
     server: {
       port: 3000,
